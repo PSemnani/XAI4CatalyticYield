@@ -167,3 +167,5 @@ cython_debug/
 
 # data files
 *.csv
+
+!data/ocm_cat_data.csv
