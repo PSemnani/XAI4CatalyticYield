@@ -36,6 +36,3 @@ All the experiments and results in the paper can be reproduced using the jupyter
 based on the extracted feature importances.
 5. notebooks/ML_model_performance_comparison.ipynb - Contains the comparison and visualization of the performance of the various ML models
 6. notebooks/M_model_feature_importance_comparison.ipynb - Contains the comparison and visualization of the feature importances of various ML models
-
-The mlxai4cat
-
