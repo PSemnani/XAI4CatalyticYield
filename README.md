@@ -1,6 +1,6 @@
 # ML & XAI for Catalytic Yield
 
-This project implements all the experiments used for the paper "A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery" by Semnani et. al, which can be found [here][https://arxiv.org/abs/2407.18935].
+This project implements all the experiments used for the paper "A Machine Learning and Explainable AI Framework Tailored for Unbalanced Experimental Catalyst Discovery" by Semnani et. al, which can be found [here](https://arxiv.org/abs/2407.18935).
 This work focuses on the development of a framework that can be used to train, evaluate and explain machine learning models in a robust way, particularly when dealing with scarce and class-imbalanced experimental catalyst data.
 
 ## Installation
